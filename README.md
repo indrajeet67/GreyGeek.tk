@@ -9,6 +9,6 @@ Language Used
 <br>
 3.JS
 <br>
-LINK: www.GreyGeek.tk
+www.GreyGeek.tk
 
 
